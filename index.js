@@ -21,13 +21,13 @@ factorial(8); // => 40320 (8 * 7 * 6 * 5 * 4 * 3 * 2 * 1)
 
 function factorial(number){
 //CODE BELOW HERE
-
+return number;
 
 
 //CODE ABOVE HERE
 }
 
-
+factorial (5)
 
 
 
@@ -43,8 +43,9 @@ reverseString('Hello, World!'); // => '!dlroW ,olleH'
 
 function reverseString(string){
   //CODE BELOW HERE
-
+return string;
 
 
   //CODE ABOVE HERE
 }
+reverseString("hello");
